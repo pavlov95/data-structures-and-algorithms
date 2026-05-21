@@ -15,7 +15,8 @@ public class ContainerWithMostWater {
         int leftPointer = 0;
         int rightPointer = height.length - 1;
         int maxWater = 0;
-
+        //Time complexity: O(n)
+        //Space complexity: O(1)
         while (leftPointer < rightPointer) {
             int containerHeight = Math.min(height[leftPointer], height[rightPointer]);
             int containerWidth = rightPointer - leftPointer;
