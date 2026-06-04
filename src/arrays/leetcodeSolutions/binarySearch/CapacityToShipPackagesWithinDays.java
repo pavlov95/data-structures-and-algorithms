@@ -1,4 +1,4 @@
-package arrays.leetcodeSolutions;
+package arrays.leetcodeSolutions.binarySearch;
 
 //1011. Capacity To Ship Packages Within D Days
 

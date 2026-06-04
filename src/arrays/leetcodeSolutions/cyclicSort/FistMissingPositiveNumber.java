@@ -1,4 +1,4 @@
-package arrays.leetcodeSolutions;
+package arrays.leetcodeSolutions.cyclicSort;
 
 public class FistMissingPositiveNumber {
 

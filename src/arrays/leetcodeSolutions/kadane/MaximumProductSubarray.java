@@ -1,4 +1,4 @@
-package arrays.leetcodeSolutions;
+package arrays.leetcodeSolutions.kadane;
 
 //152. Maximum Product Subarray
 

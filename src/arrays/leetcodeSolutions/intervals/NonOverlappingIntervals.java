@@ -1,4 +1,4 @@
-package arrays.leetcodeSolutions;
+package arrays.leetcodeSolutions.intervals;
 
 //435. Non-overlapping Intervals
 

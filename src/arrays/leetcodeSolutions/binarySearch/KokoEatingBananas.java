@@ -1,4 +1,4 @@
-package arrays.leetcodeSolutions;
+package arrays.leetcodeSolutions.binarySearch;
 
 // 875. Koko Eating Bananas
 

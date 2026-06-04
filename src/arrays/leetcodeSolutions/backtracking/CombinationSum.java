@@ -1,4 +1,4 @@
-package arrays.leetcodeSolutions;
+package arrays.leetcodeSolutions.backtracking;
 
 /*
 Given an array of distinct integers candidates and a target integer target, return a list of all unique combinations

@@ -1,4 +1,4 @@
-package arrays.leetcodeSolutions;
+package arrays.leetcodeSolutions.prefixSumHashing;
 
 import java.util.HashMap;
 

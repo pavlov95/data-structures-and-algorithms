@@ -1,4 +1,4 @@
-package arrays.leetcodeSolutions;
+package arrays.leetcodeSolutions.prefixSumHashing;
 
 //238. Product of Array Except Self
 

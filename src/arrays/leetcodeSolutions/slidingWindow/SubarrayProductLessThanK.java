@@ -1,4 +1,4 @@
-package arrays.leetcodeSolutions;
+package arrays.leetcodeSolutions.slidingWindow;
 
 //713. Subarray Product Less Than K
 

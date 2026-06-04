@@ -1,4 +1,4 @@
-package arrays.leetcodeSolutions;
+package arrays.leetcodeSolutions.slidingWindow;
 
 //209. Minimum Size Subarray Sum
 

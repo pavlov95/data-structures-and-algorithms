@@ -1,4 +1,4 @@
-package arrays.leetcodeSolutions;
+package arrays.leetcodeSolutions.prefixSumHashing;
 
 //303. Range Sum Query - Immutable
 

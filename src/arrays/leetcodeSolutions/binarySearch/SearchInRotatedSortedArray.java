@@ -1,4 +1,4 @@
-package arrays.leetcodeSolutions;
+package arrays.leetcodeSolutions.binarySearch;
 
 //33. Search in Rotated Sorted Array
 

@@ -1,4 +1,4 @@
-package arrays.leetcodeSolutions;
+package arrays.leetcodeSolutions.monotonicStack;
 
 //84. Largest Rectangle in Histogram
 
