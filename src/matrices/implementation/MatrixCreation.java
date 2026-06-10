@@ -1,7 +1,7 @@
 package matrices.implementation;
 
 public class MatrixCreation {
-    public static int[][] createEmptyMatrix(int rows, int columns){
+    public static  int[][] createEmptyMatrix(int rows, int columns){
         validateDimensions(rows, columns);
         return new int[rows][columns];
 
@@ -21,7 +21,7 @@ public class MatrixCreation {
         return matrix;
     }
 
-    private static void validateDimensions(int rows, int columns) {
+    public static void validateDimensions(int rows, int columns) {
         if (rows <= 0 || columns <= 0) {
             throw new IllegalArgumentException(
                     "Rows and columns must be positive integers");
