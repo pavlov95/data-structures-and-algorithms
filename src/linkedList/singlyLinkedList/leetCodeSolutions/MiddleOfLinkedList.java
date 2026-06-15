@@ -40,7 +40,7 @@ public class MiddleOfLinkedList {
         //Start from head again
         current = head;
 
-        //Stop at the middle 
+        //Stop at the middle
         for (int i = 0; i < size / 2; i++) {
             current = current.next;
         }
